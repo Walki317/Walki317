@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Walki317
 - 👀 I’m interested in coding, tech.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on github and discord
 - 📫 How to reach me 🇷🇺 Walki Acid 🇷🇺#3379 (discord), 861005494 (steam friend-code)
 
